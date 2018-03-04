@@ -9,7 +9,6 @@ public class Solution {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT */
 		Scanner reader=new Scanner(System.in);
 		int rows=Integer.parseInt(reader.nextLine());
-		
 		String inputString=reader.nextLine();
 		
 		int columns=inputString.length();
