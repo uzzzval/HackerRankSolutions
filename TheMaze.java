@@ -13,7 +13,6 @@ public class Solution {
 		String inputString=reader.nextLine();
 		
 		int columns=inputString.length();
-
 		char maze[][]=new char[rows][columns];
 		char character;
 		int startX=0,startY = 0;
