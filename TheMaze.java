@@ -47,7 +47,6 @@ public class Solution {
 			System.out.println(path);
 			return;
 		}
-		
 		maze[startX][startY]='@';
 		
 		if(startX>0 && maze[startX-1][startY]!='@')
