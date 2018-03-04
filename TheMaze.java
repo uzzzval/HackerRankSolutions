@@ -36,7 +36,6 @@ public class Solution {
                 }
 			}
 		}
-		
 		printPath(startX, startY, maze, "");
 		
 	}
